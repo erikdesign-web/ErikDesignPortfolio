@@ -1,0 +1,10 @@
+NOTAS PARA ICIAR
+1. Creia que era obligatorio hacerlo en vue y casi me da algo aprendiendo como va pero ya lo entiendo.
+2. Mis variables estan en el partial asociado al scss, no se si es la foema correcta o deberian ir en el json y luego vinculadas al css, me dieron problemas y tuve que hacer cambios.
+3. Me gustaria tener mas proyectos y mejores fotos y descripciones pero de momento esta asi, lo ire actualizando.
+4. La librería que he usado ha sido GSAP, con el plugin ScrollTrigger.
+5. Para el efecto 3D de los proyectos he usadoo GSAP para rotar la tarjeta según la posición del ratón y CSS (translateZ) para separar las capas de texto e imagen, creando esa sensación de profundidad. (copiado de internet)
+6. Las líneas del Hero funcionan con un evento de movimiento de ratón, GSAP deforma la línea cuando el cursor está cerca y, al alejarse, aplica un "ease" elástico para que la línea regrese a su forma original con un pequeño rebote. (copiado de internet)
+7. He recibido mucha ayuda de la IA al principio con las variables por que no paraba de darme error pero al final se arreglo poniendo en el archivo vite.config.js un link. Y para tema librerias tambien he tenido que recurrir mucho, me daban problemas.
+8. Para conectarlo a github ha ido bien pero para tener un host he tenido que vincularlo a vercel, espero que no pase nada.
+

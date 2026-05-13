@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Gatos",
     "shortDesc": "Diseño editorial sobre Madrid.",
-    "fullDesc": "Un proyecto de diseño editorial profundo que explora la identidad visual de Madrid a través de mockups y tipografía moderna, capturando la esencia de la ciudad y su arquitectura.",
+    "fullDesc": "Este proyecto surgio en base a la necesidad de recoger de una forma diferente la historia topografica de Madrid, el concepto principal se basa en el palimpsesto. Al final Madrid es un palimpsesto viviente con sus superposiciones urbanisticas a lo largo de las épocas. Con una estetica moderna en contraste con mapas antiguos se fusionan dos partes de la esencia madrileña.",
     "mainImage": "/LibroMadrid/Front-view-book-mockup-3.jpg",
     "gallery": [
       "/LibroMadrid/Front-view-book-mockup-3.jpg",
@@ -23,7 +23,7 @@
     "id": 2,
     "title": "El mar vestido de ceramica",
     "shortDesc": "Concurso de Packaging.",
-    "fullDesc": "Propuesta de rediseño de packaging para Anfaco cecopesca, fusionando la tradición marina con una estética de acabados cerámicos de alta gama para destacar en el mercado gourmet.",
+    "fullDesc": "Esta propuesta de packaging reinterpreta la tradición gallega a través de una inspiración directa en la cerámica de Sargadelos, fusionando elegancia, artesanía y modernidad. Representa la excelencia artesanal gallega, con sus patrones orgánicos y tonalidades azules, símbolos de identidad y calidad. La propuesta combina motivos decorativos geométricos y colores icónicos adaptados a la lata para transmitir sofisticación y autenticidad. Un diseño elegante y decorativo, que evoca la artesanía icónica y atrae al consumidor, con una tipografía clara y estructura visual que prioriza la legibilidad de la información. Esta propuesta busca diferenciar Cata la Lata en el mercado, convirtiendo el envase en un objeto de deseo que celebra la cultura gallega mientras apela a un público contemporáneo.",
     "mainImage": "/Catalalata/MEJILLON-DOS.jpg",
     "gallery": [
       "/Catalalata/MEJILLON-DOS.jpg",
@@ -46,7 +46,7 @@
     "id": 3,
     "title": "El transito",
     "shortDesc": "Concept art sobre un videojuego.",
-    "fullDesc": "Descripción extensa y detallada del proyecto 3, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "fullDesc": "Este proyecto de concept art sobre personajes de un videojuego se basa en un entorno donde el jugador puede judgar a las almas sin conocer todos sus actos, los personajes Airen y SP estan presentados como sujetos que estan en este limbo como trabajadores. Airen toma inspiración de los nazarenos mientras que SP tiene similitudes con la representación de San Pedro, dandole un local a la creación de estos personajes.",
     "mainImage": "/Conceptart/SPverde.jpg",
     "gallery": [
       "/Conceptart/Bocetosdetalle01.jpg",
@@ -67,7 +67,7 @@
     "id": 4,
     "title": "Castrillo de Riopisuerga",
     "shortDesc": "Identidad visual y campaña.",
-    "fullDesc": "Descripción extensa y detallada del proyecto 4, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "fullDesc": "La propuesta se basa en el rediseño del pueblo Castrillo de Riopisuerga y una pequeña campaña para el evento de eclipse solar que será visto desde el pueblo. Esta propuesta esta diseñada desde un enfoque funcional, moderno y a la vez manteniendo esa base en lo rural. El color principal y de acento esta vinculado y elegido con la tradición del campo y de la tierra, con identidad sin perder el contexto.",
     "mainImage": "/Castrillo pisuerga/manta.png",
     "gallery": [ 
       "/Castrillo pisuerga/Escudo.jpg",
@@ -90,7 +90,7 @@
     "id": 5,
     "title": "Desplegable Gatos",
     "shortDesc": "Anexo al Diseño editorial Gatos.",
-    "fullDesc": "Descripción extensa y detallada del proyecto 5, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "fullDesc": "Desplegable que acompaña al diseño editorial sobre Madrid, Gatos, donde se divide la parte norte y sur de de la ciudad de Madrid.",
     "mainImage":"/Desplegable madrid/mockup-desplegable-depie-dos-carass.jpg ",
 
     "gallery": [
@@ -105,7 +105,7 @@
     "id": 6,
     "title": "Rediseño Otras Mentes",
     "shortDesc": "Rediseño y creación de colección editorial.",
-    "fullDesc": "Descripción extensa y detallada del proyecto 5, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "fullDesc": "Este rediseño editorial tiene como finalidad actualizar los codigos visuales y graficos y crear una coleccion donde un sistema este claro y reconocible. La estetica mas llamativa y sugerente de las ilustraciones complementan la maquietación mas tradicional.",
     "mainImage":"/Editorial otras mentes/mockup-libro-pulpo-001.jpg",
 
     "gallery": [
