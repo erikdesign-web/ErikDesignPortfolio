@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "title": "Gatos",
+    "shortDesc": "Diseño editorial sobre Madrid.",
+    "fullDesc": "Un proyecto de diseño editorial profundo que explora la identidad visual de Madrid a través de mockups y tipografía moderna, capturando la esencia de la ciudad y su arquitectura.",
+    "mainImage": "/LibroMadrid/Front-view-book-mockup-3.jpg",
+    "gallery": [
+      "/LibroMadrid/Front-view-book-mockup-3.jpg",
+      "/LibroMadrid/001.jpg",
+      "/LibroMadrid/002.jpg",
+      "/LibroMadrid/04.jpg",
+      "/LibroMadrid/05.jpg",
+      "/LibroMadrid/07.jpg",
+      "/LibroMadrid/08.jpg"
+      
+    ],
+    "links": [
+      { "label": "Instagram", "url": "#" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "El mar vestido de ceramica",
+    "shortDesc": "Concurso de Packaging.",
+    "fullDesc": "Propuesta de rediseño de packaging para Anfaco cecopesca, fusionando la tradición marina con una estética de acabados cerámicos de alta gama para destacar en el mercado gourmet.",
+    "mainImage": "/Catalalata/MEJILLON-DOS.jpg",
+    "gallery": [
+      "/Catalalata/MEJILLON-DOS.jpg",
+      "/Catalalata/mejillon-solo.jpg",
+      "/Catalalata/mejillon-de-lado.jpg",
+      "/Catalalata/salmon-solo.jpg",
+      "/Catalalata/sardinillas-solo.jpg",
+      "/Catalalata/todos-de-3.jpg",
+      "/Catalalata/todos-muckup.jpg",
+      "/Catalalata/trasera-atun.jpg",
+      "/Catalalata/trasera-mejillon.jpg",
+      "/Catalalata/trasera-sardinillas.jpg"
+
+    ],
+    "links": [
+      { "label": "YouTube", "url": "#" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "El transito",
+    "shortDesc": "Concept art sobre un videojuego.",
+    "fullDesc": "Descripción extensa y detallada del proyecto 3, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "mainImage": "/Conceptart/SPverde.jpg",
+    "gallery": [
+      "/Conceptart/Bocetosdetalle01.jpg",
+      "/Conceptart/Airen3BN.jpg",
+      "/Conceptart/Airen5vistas.jpg",
+      "/Conceptart/AirenAmarillo.jpg",
+      "/Conceptart/AirenBN.jpg",
+      "/Conceptart/AirenExpresiones.jpg",
+      "/Conceptart/AirenNaranja.jpg",
+      "/Conceptart/SPgris.jpg",
+      "/Conceptart/SPverde.jpg",
+      "/Conceptart/SPNaranja.jpg",
+      "/Conceptart/Vistas-de-SP.jpg"
+    ],
+    "links": []
+  },
+  {
+    "id": 4,
+    "title": "Castrillo de Riopisuerga",
+    "shortDesc": "Identidad visual y campaña.",
+    "fullDesc": "Descripción extensa y detallada del proyecto 4, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "mainImage": "/Castrillo pisuerga/manta.png",
+    "gallery": [ 
+      "/Castrillo pisuerga/Escudo.jpg",
+      "/Castrillo pisuerga/Escudonegro.png",
+      "/Castrillo pisuerga/madera.png",
+      "/Castrillo pisuerga/manta.png",
+      "/Castrillo pisuerga/Medidascastrillo.png",
+      "/Castrillo pisuerga/parche.png",
+      "/Castrillo pisuerga/piedra.png",
+      "/Castrillo pisuerga/tela.png",
+      "/Castrillo pisuerga/ayuntamiento 02.png",
+      "/Castrillo pisuerga/Distanciaseguridad.png",
+      "/Castrillo pisuerga/Dorado.png",
+      "/Castrillo pisuerga/Eclipse-03.jpg",
+      "/Castrillo pisuerga/eclipse-nombre.jpg"
+      ],
+    "links": []
+  },
+  {
+    "id": 5,
+    "title": "Desplegable Gatos",
+    "shortDesc": "Anexo al Diseño editorial Gatos.",
+    "fullDesc": "Descripción extensa y detallada del proyecto 5, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "mainImage":"/Desplegable madrid/mockup-desplegable-depie-dos-carass.jpg ",
+
+    "gallery": [
+      "/Desplegable madrid/mockup-desplegable-depie-dos-caras.jpg ",
+      "/Desplegable madrid/mockup-desplegable-depie-dos-carass.jpg ",
+      "/Desplegable madrid/Mockup-desplegable.jpg",
+      "/Desplegable madrid/pliego-1,2,3,4plus.png"
+    ],
+    "links": []
+  },
+  {
+    "id": 6,
+    "title": "Rediseño Otras Mentes",
+    "shortDesc": "Rediseño y creación de colección editorial.",
+    "fullDesc": "Descripción extensa y detallada del proyecto 5, explicando el proceso creativo, los desafíos técnicos y la solución visual final aplicada.",
+    "mainImage":"/Editorial otras mentes/mockup-libro-pulpo-001.jpg",
+
+    "gallery": [
+      "/Editorial otras mentes/mockup-abierto-texto-elefante-003.jpg",
+      "/Editorial otras mentes/mockup-abierto-texto-pulpo-003.jpg",
+      "/Editorial otras mentes/mockup-abierto-titulo-cuervo-002.jpg",
+      "/Editorial otras mentes/mockup-abierto-titulo-elefante-002.jpg",
+      "/Editorial otras mentes/mockup-abierto-titulo-pulpo-002.jpg",
+      "/Editorial otras mentes/mockup-libro-cuervo-001.jpg",
+      "/Editorial otras mentes/mockup-libro-elefante-001.jpg",
+      "/Editorial otras mentes/mockup-libro-pulpo-001.jpg"
+    ],
+    "links": []
+  }
+  
+
+
+]

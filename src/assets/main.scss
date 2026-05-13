@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+  cursor: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: $font-body;
+  color: $color-text;
+  background-color: $color-bg;
+  overflow-x: hidden;
+}
+
+body, a, button, .project-item, .zoomable-image, .zoom-overlay, .close-btn {
+  cursor: none !important;
+}
+
